@@ -36,6 +36,16 @@ const allowedOrigins = (origin, callback) => {
 app.use(cors({ origin: allowedOrigins }));
 app.use(express.json());
 
+// Health Check — lightweight, no DB access
+app.get('/health', (req, res) => {
+  res.status(200).json({
+    status: 'ok',
+    timestamp: new Date().toISOString(),
+    uptime: Math.floor(process.uptime()) + 's',
+    environment: process.env.NODE_ENV || 'development'
+  });
+});
+
 // Routes
 app.use('/api/auth', authRoutes);
 app.use('/api/coleccion', coleccionRoutes);
