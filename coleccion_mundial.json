@@ -1,0 +1,4285 @@
+{
+  "email": "usuario@gmail.com",
+  "password": "hash_bcrypt",
+  "fecha_creacion": "2026-05-01T18:00:25.484612",
+  "ultima_actualizacion": "2026-05-01T18:00:25.484655",
+  "progreso_total": 0,
+  "coleccion": [
+    {
+      "pais": "FWC",
+      "codigo": "FWC",
+      "figuritas": [
+        {
+          "figura": "00",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 1",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 2",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 3",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 4",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 5",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 6",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 7",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 8",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 9",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 10",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 11",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 12",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 13",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 14",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 15",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 16",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 17",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 18",
+          "obtenida": false
+        },
+        {
+          "figura": "FWC 19",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "México",
+      "codigo": "MEX",
+      "figuritas": [
+        {
+          "figura": "MEX 1",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 2",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 3",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 4",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 5",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 6",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 7",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 8",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 9",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 10",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 11",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 12",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 13",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 14",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 15",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 16",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 17",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 18",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 19",
+          "obtenida": false
+        },
+        {
+          "figura": "MEX 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Sudáfrica",
+      "codigo": "RSA",
+      "figuritas": [
+        {
+          "figura": "RSA 1",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 2",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 3",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 4",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 5",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 6",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 7",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 8",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 9",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 10",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 11",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 12",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 13",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 14",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 15",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 16",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 17",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 18",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 19",
+          "obtenida": false
+        },
+        {
+          "figura": "RSA 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Corea del Sur",
+      "codigo": "KOR",
+      "figuritas": [
+        {
+          "figura": "KOR 1",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 2",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 3",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 4",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 5",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 6",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 7",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 8",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 9",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 10",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 11",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 12",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 13",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 14",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 15",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 16",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 17",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 18",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 19",
+          "obtenida": false
+        },
+        {
+          "figura": "KOR 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Chequia",
+      "codigo": "CZE",
+      "figuritas": [
+        {
+          "figura": "CZE 1",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 2",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 3",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 4",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 5",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 6",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 7",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 8",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 9",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 10",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 11",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 12",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 13",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 14",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 15",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 16",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 17",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 18",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 19",
+          "obtenida": false
+        },
+        {
+          "figura": "CZE 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Canadá",
+      "codigo": "CAN",
+      "figuritas": [
+        {
+          "figura": "CAN 1",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 2",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 3",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 4",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 5",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 6",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 7",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 8",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 9",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 10",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 11",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 12",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 13",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 14",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 15",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 16",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 17",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 18",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 19",
+          "obtenida": false
+        },
+        {
+          "figura": "CAN 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Bosnia y Herzegovina",
+      "codigo": "BIH",
+      "figuritas": [
+        {
+          "figura": "BIH 1",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 2",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 3",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 4",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 5",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 6",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 7",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 8",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 9",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 10",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 11",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 12",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 13",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 14",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 15",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 16",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 17",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 18",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 19",
+          "obtenida": false
+        },
+        {
+          "figura": "BIH 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Qatar",
+      "codigo": "QAT",
+      "figuritas": [
+        {
+          "figura": "QAT 1",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 2",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 3",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 4",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 5",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 6",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 7",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 8",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 9",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 10",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 11",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 12",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 13",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 14",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 15",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 16",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 17",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 18",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 19",
+          "obtenida": false
+        },
+        {
+          "figura": "QAT 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Suiza",
+      "codigo": "SUI",
+      "figuritas": [
+        {
+          "figura": "SUI 1",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 2",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 3",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 4",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 5",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 6",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 7",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 8",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 9",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 10",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 11",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 12",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 13",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 14",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 15",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 16",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 17",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 18",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 19",
+          "obtenida": false
+        },
+        {
+          "figura": "SUI 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Brasil",
+      "codigo": "BRA",
+      "figuritas": [
+        {
+          "figura": "BRA 1",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 2",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 3",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 4",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 5",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 6",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 7",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 8",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 9",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 10",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 11",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 12",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 13",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 14",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 15",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 16",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 17",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 18",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 19",
+          "obtenida": false
+        },
+        {
+          "figura": "BRA 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Marruecos",
+      "codigo": "MAR",
+      "figuritas": [
+        {
+          "figura": "MAR 1",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 2",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 3",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 4",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 5",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 6",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 7",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 8",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 9",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 10",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 11",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 12",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 13",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 14",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 15",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 16",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 17",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 18",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 19",
+          "obtenida": false
+        },
+        {
+          "figura": "MAR 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Haití",
+      "codigo": "HAI",
+      "figuritas": [
+        {
+          "figura": "HAI 1",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 2",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 3",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 4",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 5",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 6",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 7",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 8",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 9",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 10",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 11",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 12",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 13",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 14",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 15",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 16",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 17",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 18",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 19",
+          "obtenida": false
+        },
+        {
+          "figura": "HAI 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Escocia",
+      "codigo": "SCO",
+      "figuritas": [
+        {
+          "figura": "SCO 1",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 2",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 3",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 4",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 5",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 6",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 7",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 8",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 9",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 10",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 11",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 12",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 13",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 14",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 15",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 16",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 17",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 18",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 19",
+          "obtenida": false
+        },
+        {
+          "figura": "SCO 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Estados Unidos",
+      "codigo": "USA",
+      "figuritas": [
+        {
+          "figura": "USA 1",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 2",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 3",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 4",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 5",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 6",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 7",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 8",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 9",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 10",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 11",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 12",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 13",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 14",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 15",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 16",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 17",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 18",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 19",
+          "obtenida": false
+        },
+        {
+          "figura": "USA 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Paraguay",
+      "codigo": "PAR",
+      "figuritas": [
+        {
+          "figura": "PAR 1",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 2",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 3",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 4",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 5",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 6",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 7",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 8",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 9",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 10",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 11",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 12",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 13",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 14",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 15",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 16",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 17",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 18",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 19",
+          "obtenida": false
+        },
+        {
+          "figura": "PAR 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Australia",
+      "codigo": "AUS",
+      "figuritas": [
+        {
+          "figura": "AUS 1",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 2",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 3",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 4",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 5",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 6",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 7",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 8",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 9",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 10",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 11",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 12",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 13",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 14",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 15",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 16",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 17",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 18",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 19",
+          "obtenida": false
+        },
+        {
+          "figura": "AUS 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Turquía",
+      "codigo": "TUR",
+      "figuritas": [
+        {
+          "figura": "TUR 1",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 2",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 3",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 4",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 5",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 6",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 7",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 8",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 9",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 10",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 11",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 12",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 13",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 14",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 15",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 16",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 17",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 18",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 19",
+          "obtenida": false
+        },
+        {
+          "figura": "TUR 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Alemania",
+      "codigo": "GER",
+      "figuritas": [
+        {
+          "figura": "GER 1",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 2",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 3",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 4",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 5",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 6",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 7",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 8",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 9",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 10",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 11",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 12",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 13",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 14",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 15",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 16",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 17",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 18",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 19",
+          "obtenida": false
+        },
+        {
+          "figura": "GER 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Curazao",
+      "codigo": "CUW",
+      "figuritas": [
+        {
+          "figura": "CUW 1",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 2",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 3",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 4",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 5",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 6",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 7",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 8",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 9",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 10",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 11",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 12",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 13",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 14",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 15",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 16",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 17",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 18",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 19",
+          "obtenida": false
+        },
+        {
+          "figura": "CUW 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Costa de Marfil",
+      "codigo": "CIV",
+      "figuritas": [
+        {
+          "figura": "CIV 1",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 2",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 3",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 4",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 5",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 6",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 7",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 8",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 9",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 10",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 11",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 12",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 13",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 14",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 15",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 16",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 17",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 18",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 19",
+          "obtenida": false
+        },
+        {
+          "figura": "CIV 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Ecuador",
+      "codigo": "ECU",
+      "figuritas": [
+        {
+          "figura": "ECU 1",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 2",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 3",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 4",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 5",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 6",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 7",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 8",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 9",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 10",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 11",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 12",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 13",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 14",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 15",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 16",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 17",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 18",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 19",
+          "obtenida": false
+        },
+        {
+          "figura": "ECU 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Países Bajos",
+      "codigo": "NED",
+      "figuritas": [
+        {
+          "figura": "NED 1",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 2",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 3",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 4",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 5",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 6",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 7",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 8",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 9",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 10",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 11",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 12",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 13",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 14",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 15",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 16",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 17",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 18",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 19",
+          "obtenida": false
+        },
+        {
+          "figura": "NED 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Japón",
+      "codigo": "JPN",
+      "figuritas": [
+        {
+          "figura": "JPN 1",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 2",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 3",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 4",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 5",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 6",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 7",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 8",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 9",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 10",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 11",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 12",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 13",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 14",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 15",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 16",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 17",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 18",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 19",
+          "obtenida": false
+        },
+        {
+          "figura": "JPN 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Suecia",
+      "codigo": "SWE",
+      "figuritas": [
+        {
+          "figura": "SWE 1",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 2",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 3",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 4",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 5",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 6",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 7",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 8",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 9",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 10",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 11",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 12",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 13",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 14",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 15",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 16",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 17",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 18",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 19",
+          "obtenida": false
+        },
+        {
+          "figura": "SWE 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Túnez",
+      "codigo": "TUN",
+      "figuritas": [
+        {
+          "figura": "TUN 1",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 2",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 3",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 4",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 5",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 6",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 7",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 8",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 9",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 10",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 11",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 12",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 13",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 14",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 15",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 16",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 17",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 18",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 19",
+          "obtenida": false
+        },
+        {
+          "figura": "TUN 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Bélgica",
+      "codigo": "BEL",
+      "figuritas": [
+        {
+          "figura": "BEL 1",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 2",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 3",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 4",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 5",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 6",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 7",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 8",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 9",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 10",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 11",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 12",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 13",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 14",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 15",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 16",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 17",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 18",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 19",
+          "obtenida": false
+        },
+        {
+          "figura": "BEL 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Egipto",
+      "codigo": "EGY",
+      "figuritas": [
+        {
+          "figura": "EGY 1",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 2",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 3",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 4",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 5",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 6",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 7",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 8",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 9",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 10",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 11",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 12",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 13",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 14",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 15",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 16",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 17",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 18",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 19",
+          "obtenida": false
+        },
+        {
+          "figura": "EGY 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Irán",
+      "codigo": "IRN",
+      "figuritas": [
+        {
+          "figura": "IRN 1",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 2",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 3",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 4",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 5",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 6",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 7",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 8",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 9",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 10",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 11",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 12",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 13",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 14",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 15",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 16",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 17",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 18",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 19",
+          "obtenida": false
+        },
+        {
+          "figura": "IRN 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Nueva Zelanda",
+      "codigo": "NZL",
+      "figuritas": [
+        {
+          "figura": "NZL 1",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 2",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 3",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 4",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 5",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 6",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 7",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 8",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 9",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 10",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 11",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 12",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 13",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 14",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 15",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 16",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 17",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 18",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 19",
+          "obtenida": false
+        },
+        {
+          "figura": "NZL 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "España",
+      "codigo": "ESP",
+      "figuritas": [
+        {
+          "figura": "ESP 1",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 2",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 3",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 4",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 5",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 6",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 7",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 8",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 9",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 10",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 11",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 12",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 13",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 14",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 15",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 16",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 17",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 18",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 19",
+          "obtenida": false
+        },
+        {
+          "figura": "ESP 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Cabo Verde",
+      "codigo": "CPV",
+      "figuritas": [
+        {
+          "figura": "CPV 1",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 2",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 3",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 4",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 5",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 6",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 7",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 8",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 9",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 10",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 11",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 12",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 13",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 14",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 15",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 16",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 17",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 18",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 19",
+          "obtenida": false
+        },
+        {
+          "figura": "CPV 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Arabia Saudita",
+      "codigo": "KSA",
+      "figuritas": [
+        {
+          "figura": "KSA 1",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 2",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 3",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 4",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 5",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 6",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 7",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 8",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 9",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 10",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 11",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 12",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 13",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 14",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 15",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 16",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 17",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 18",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 19",
+          "obtenida": false
+        },
+        {
+          "figura": "KSA 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Uruguay",
+      "codigo": "URU",
+      "figuritas": [
+        {
+          "figura": "URU 1",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 2",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 3",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 4",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 5",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 6",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 7",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 8",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 9",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 10",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 11",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 12",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 13",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 14",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 15",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 16",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 17",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 18",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 19",
+          "obtenida": false
+        },
+        {
+          "figura": "URU 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Francia",
+      "codigo": "FRA",
+      "figuritas": [
+        {
+          "figura": "FRA 1",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 2",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 3",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 4",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 5",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 6",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 7",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 8",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 9",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 10",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 11",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 12",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 13",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 14",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 15",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 16",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 17",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 18",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 19",
+          "obtenida": false
+        },
+        {
+          "figura": "FRA 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Senegal",
+      "codigo": "SEN",
+      "figuritas": [
+        {
+          "figura": "SEN 1",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 2",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 3",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 4",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 5",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 6",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 7",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 8",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 9",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 10",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 11",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 12",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 13",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 14",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 15",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 16",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 17",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 18",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 19",
+          "obtenida": false
+        },
+        {
+          "figura": "SEN 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Irak",
+      "codigo": "IRQ",
+      "figuritas": [
+        {
+          "figura": "IRQ 1",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 2",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 3",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 4",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 5",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 6",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 7",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 8",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 9",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 10",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 11",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 12",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 13",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 14",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 15",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 16",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 17",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 18",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 19",
+          "obtenida": false
+        },
+        {
+          "figura": "IRQ 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Noruega",
+      "codigo": "NOR",
+      "figuritas": [
+        {
+          "figura": "NOR 1",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 2",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 3",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 4",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 5",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 6",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 7",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 8",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 9",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 10",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 11",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 12",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 13",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 14",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 15",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 16",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 17",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 18",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 19",
+          "obtenida": false
+        },
+        {
+          "figura": "NOR 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Argentina",
+      "codigo": "ARG",
+      "figuritas": [
+        {
+          "figura": "ARG 1",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 2",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 3",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 4",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 5",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 6",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 7",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 8",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 9",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 10",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 11",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 12",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 13",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 14",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 15",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 16",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 17",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 18",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 19",
+          "obtenida": false
+        },
+        {
+          "figura": "ARG 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Argelia",
+      "codigo": "ALG",
+      "figuritas": [
+        {
+          "figura": "ALG 1",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 2",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 3",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 4",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 5",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 6",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 7",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 8",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 9",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 10",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 11",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 12",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 13",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 14",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 15",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 16",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 17",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 18",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 19",
+          "obtenida": false
+        },
+        {
+          "figura": "ALG 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Austria",
+      "codigo": "AUT",
+      "figuritas": [
+        {
+          "figura": "AUT 1",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 2",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 3",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 4",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 5",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 6",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 7",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 8",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 9",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 10",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 11",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 12",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 13",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 14",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 15",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 16",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 17",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 18",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 19",
+          "obtenida": false
+        },
+        {
+          "figura": "AUT 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Jordania",
+      "codigo": "JOR",
+      "figuritas": [
+        {
+          "figura": "JOR 1",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 2",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 3",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 4",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 5",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 6",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 7",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 8",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 9",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 10",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 11",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 12",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 13",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 14",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 15",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 16",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 17",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 18",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 19",
+          "obtenida": false
+        },
+        {
+          "figura": "JOR 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Portugal",
+      "codigo": "POR",
+      "figuritas": [
+        {
+          "figura": "POR 1",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 2",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 3",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 4",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 5",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 6",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 7",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 8",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 9",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 10",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 11",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 12",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 13",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 14",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 15",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 16",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 17",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 18",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 19",
+          "obtenida": false
+        },
+        {
+          "figura": "POR 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "República Democrática del Congo",
+      "codigo": "COD",
+      "figuritas": [
+        {
+          "figura": "COD 1",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 2",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 3",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 4",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 5",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 6",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 7",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 8",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 9",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 10",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 11",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 12",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 13",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 14",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 15",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 16",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 17",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 18",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 19",
+          "obtenida": false
+        },
+        {
+          "figura": "COD 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Uzbekistán",
+      "codigo": "UZB",
+      "figuritas": [
+        {
+          "figura": "UZB 1",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 2",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 3",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 4",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 5",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 6",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 7",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 8",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 9",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 10",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 11",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 12",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 13",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 14",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 15",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 16",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 17",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 18",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 19",
+          "obtenida": false
+        },
+        {
+          "figura": "UZB 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Colombia",
+      "codigo": "COL",
+      "figuritas": [
+        {
+          "figura": "COL 1",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 2",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 3",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 4",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 5",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 6",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 7",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 8",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 9",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 10",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 11",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 12",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 13",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 14",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 15",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 16",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 17",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 18",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 19",
+          "obtenida": false
+        },
+        {
+          "figura": "COL 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Inglaterra",
+      "codigo": "ENG",
+      "figuritas": [
+        {
+          "figura": "ENG 1",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 2",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 3",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 4",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 5",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 6",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 7",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 8",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 9",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 10",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 11",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 12",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 13",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 14",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 15",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 16",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 17",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 18",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 19",
+          "obtenida": false
+        },
+        {
+          "figura": "ENG 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Croacia",
+      "codigo": "CRO",
+      "figuritas": [
+        {
+          "figura": "CRO 1",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 2",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 3",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 4",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 5",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 6",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 7",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 8",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 9",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 10",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 11",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 12",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 13",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 14",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 15",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 16",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 17",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 18",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 19",
+          "obtenida": false
+        },
+        {
+          "figura": "CRO 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Ghana",
+      "codigo": "GHA",
+      "figuritas": [
+        {
+          "figura": "GHA 1",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 2",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 3",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 4",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 5",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 6",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 7",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 8",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 9",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 10",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 11",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 12",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 13",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 14",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 15",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 16",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 17",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 18",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 19",
+          "obtenida": false
+        },
+        {
+          "figura": "GHA 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Panamá",
+      "codigo": "PAN",
+      "figuritas": [
+        {
+          "figura": "PAN 1",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 2",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 3",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 4",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 5",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 6",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 7",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 8",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 9",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 10",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 11",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 12",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 13",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 14",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 15",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 16",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 17",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 18",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 19",
+          "obtenida": false
+        },
+        {
+          "figura": "PAN 20",
+          "obtenida": false
+        }
+      ]
+    },
+    {
+      "pais": "Coca Cola",
+      "codigo": "CC",
+      "figuritas": [
+        {
+          "figura": "CC 1",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 2",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 3",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 4",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 5",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 6",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 7",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 8",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 9",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 10",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 11",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 12",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 13",
+          "obtenida": false
+        },
+        {
+          "figura": "CC 14",
+          "obtenida": false
+        }
+      ]
+    }
+  ]
+}
