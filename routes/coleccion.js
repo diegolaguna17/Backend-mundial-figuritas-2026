@@ -8,7 +8,17 @@ router.get('/', verifyToken, async (req, res) => {
     const user = await User.findById(req.user.id);
     if (!user) return res.status(404).json({ error: 'Usuario no encontrado' });
     
-    res.json({ error: null, data: { coleccion: user.coleccion, progreso_total: user.progreso_total } });
+    const coleccionTransformada = user.coleccion.map(c => ({
+      pais: c.pais,
+      codigo: c.codigo,
+      figuritas: c.figuritas.map(f => ({
+        figura: f.figura,
+        tiene: f.obtenida,
+        repetidas: f.repetidas || 0
+      }))
+    }));
+
+    res.json({ error: null, data: { coleccion: coleccionTransformada, progreso_total: user.progreso_total, id_usuario: user._id } });
   } catch (error) {
     res.status(400).json({ error });
   }
@@ -17,7 +27,7 @@ router.get('/', verifyToken, async (req, res) => {
 // Update sticker status
 router.put('/figurita', verifyToken, async (req, res) => {
   try {
-    const { codigo_pais, figura, obtenida } = req.body;
+    const { codigo_pais, figura, tiene, repetidas } = req.body;
     
     // Find the user
     const user = await User.findById(req.user.id);
@@ -32,7 +42,8 @@ router.put('/figurita', verifyToken, async (req, res) => {
     if (!sticker) return res.status(404).json({ error: 'Figurita no encontrada' });
 
     // Update status
-    sticker.obtenida = obtenida;
+    if (tiene !== undefined) sticker.obtenida = tiene;
+    if (repetidas !== undefined) sticker.repetidas = repetidas;
     user.ultima_actualizacion = Date.now();
 
     // Recalculate total progress (optional but good)
@@ -47,6 +58,28 @@ router.put('/figurita', verifyToken, async (req, res) => {
     await user.save();
     
     res.json({ error: null, message: 'Figurita actualizada exitosamente' });
+  } catch (error) {
+    res.status(400).json({ error });
+  }
+});
+
+// Share endpoint
+router.get('/share/:id_usuario', async (req, res) => {
+  try {
+    const user = await User.findById(req.params.id_usuario);
+    if (!user) return res.status(404).json({ error: 'Usuario no encontrado' });
+    
+    const coleccionTransformada = user.coleccion.map(c => ({
+      pais: c.pais,
+      codigo: c.codigo,
+      figuritas: c.figuritas.map(f => ({
+        figura: f.figura,
+        tiene: f.obtenida,
+        repetidas: f.repetidas || 0
+      }))
+    }));
+
+    res.json({ error: null, data: { coleccion: coleccionTransformada, progreso_total: user.progreso_total } });
   } catch (error) {
     res.status(400).json({ error });
   }

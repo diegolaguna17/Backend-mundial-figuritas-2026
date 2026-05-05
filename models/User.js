@@ -2,7 +2,8 @@ const mongoose = require('mongoose');
 
 const stickerSchema = new mongoose.Schema({
   figura: { type: String, required: true },
-  obtenida: { type: Boolean, default: false }
+  obtenida: { type: Boolean, default: false },
+  repetidas: { type: Number, default: 0 }
 }, { _id: false });
 
 const countrySchema = new mongoose.Schema({
